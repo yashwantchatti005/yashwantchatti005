@@ -19,10 +19,15 @@
 # 👨‍💻 About Me
 
 🎓 BCA Student passionate about **Software Development**
+
 💻 Full Stack Developer building **modern web apps**
+
 🚀 Love creating **real-world projects**
+
 🌱 Currently learning **advanced web technologies**
+
 ⚡ Goal: Become a **Top Software Engineer**
+
 
 ---
 
