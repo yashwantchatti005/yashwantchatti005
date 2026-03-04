@@ -1,72 +1,124 @@
-<!-- HEADER -->
+<!-- PROFILE HEADER -->
+
+<h1 align="center">Hi 👋, I'm Yashwant Kumar</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | BCA Student | Passionate Web Builder
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Yashwant%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descSize=18"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Full+Stack+Developer;Clean+Code+Enthusiast;Open+Source+Contributor"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yashwantchatti005?tab=followers">
-    <img src="https://img.shields.io/github/followers/yashwantchatti005?label=Followers&style=for-the-badge&color=1a1b27"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yashwantchatti005&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=yashwantchatti005&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-```javascript
-const yashwant = {
-  education: "Bachelor of Computer Applications (BCA)",
-  location: "India 🇮🇳",
-  role: "Full Stack Developer",
+🎓 BCA Student passionate about **Software Development**
+💻 Full Stack Developer building **modern web apps**
+🚀 Love creating **real-world projects**
+🌱 Currently learning **advanced web technologies**
+⚡ Goal: Become a **Top Software Engineer**
 
-  currentFocus: [
-    "Full Stack Web Development",
-    "Data Structures & Algorithms",
-    "System Design"
-  ],
+---
 
-  interests: [
-    "Building scalable applications",
-    "Clean architecture",
-    "Open Source Contribution"
-  ]
-};
-
-🔭 Currently building production-ready web applications
-
-🌱 Learning React, Node.js, System Design
-
-🎯 Goal: Become a Software Development Engineer
-
-⚡ Fun fact: Bugs fear my debugger
-
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind&theme=dark"/> </p>
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantchatti005&theme=tokyonight&hide_border=true"/> </p>
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=yashwantchatti005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantchatti005&theme=tokyo-night&hide_border=true"/> </p>
-🚀 Featured Projects
-<p align="center"> <a href="https://github.com/yashwantchatti005/Portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashwantchatti005&repo=Portfolio&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/yashwantchatti005/To-Do-List"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashwantchatti005&repo=To-Do-List&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/yashwantchatti005/E-commerce-Website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashwantchatti005&repo=E-commerce-Website&theme=tokyonight&hide_border=true"/> </a> <a href="https://github.com/yashwantchatti005/Expense-Tracker"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashwantchatti005&repo=Expense-Tracker&theme=tokyonight&hide_border=true"/> </a> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/yashwantchatti005"> <img src="https://skillicons.dev/icons?i=github"/> </a> <a href="https://linkedin.com"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="mailto:your-email@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
-💡 Developer Quote
-
-“First, solve the problem. Then, write the code.”
-— John Johnson
+# 🌐 Connect With Me
 
 <p align="center">
 
-⭐ If you like my work, consider giving a star to my repositories!
+<a href="https://github.com/yashwantchatti005">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-</p> <p align="center"> <img src="https://img.shields.io/badge/Made%20with-❤️-red"/> <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown"/> <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen"/> </p> ```
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantchatti005&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantchatti005&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashwantchatti005&theme=radical&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🔹 **Portfolio Website**
+🔹 **Pro To-Do List App**
+🔹 **Expense Tracker Web App**
+🔹 **JavaScript Calculator**
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+✨ <b>Building projects, learning daily, and growing as a developer.</b> ✨
+</p>
+
+<p align="center">
+⭐ From <b>Yashwant Kumar</b>
+</p>
