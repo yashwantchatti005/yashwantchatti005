@@ -56,15 +56,16 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=radical&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=radical&cache_seconds=1800"/>
 
 </p>
+
 
 
 ---
@@ -89,13 +90,14 @@
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashwantchatti005&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=yashwantchatti005&theme=radical&no-frame=true&margin-w=15"/>
 
 </p>
+
 
 
 ---
