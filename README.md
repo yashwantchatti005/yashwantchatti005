@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:7C3AED&height=260&section=header&text=Yashwant%20Kumar&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20BCA%20Student&descAlignY=55&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:7C3AED&height=260&section=header&text=Yashwant%20Kumar&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20BCA%20Student&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+REST+APIs;Turning+Ideas+Into+Scalable+Applications;Always+Learning+%E2%80%94+Always+Building" />
 
