@@ -1,334 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:7C3AED&height=260&section=header&text=Yashwant%20Kumar&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20and%20Spring%20Boot%20%7C%20BCA%20Student&descAlignY=55&descSize=18&animation=fadeIn" />
+# YASHWANT KUMAR
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+REST+APIs;Turning+Ideas+Into+Scalable+Applications;Always+Learning+%E2%80%94+Always+Building" />
+**Full Stack Developer**
+
+Java · Spring Boot · React.js · JavaScript
+
+Building practical web applications with modern frontend technologies and Java-based backend systems.
+
+[Portfolio](https://yashwantchatti005.github.io/Portfolio/) &nbsp;·&nbsp; [GitHub](https://github.com/yashwantchatti005) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yashwantchatti2005) &nbsp;·&nbsp; [Email](mailto:yaswanthchatti@gmail.com)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-00F7FF?style=for-the-badge&logo=codeigniter&logoColor=black"/>
-<img src="https://img.shields.io/badge/Open%20to%20Internships-7C3AED?style=for-the-badge&logo=handshake&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yashwantchatti005&label=Profile+Views&color=00F7FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yashwantchatti005?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0D1117" />
-<img src="https://img.shields.io/github/stars/yashwantchatti005?label=Stars&style=for-the-badge&color=00F7FF&labelColor=0D1117" />
-
-<br/><br/>
-
-<a href="https://yashwantchatti005.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/></a>
-<a href="mailto:yaswanthchatti@gmail.com"><img src="https://img.shields.io/badge/📩_Say_Hello-Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED"/></a>
+![Java](https://img.shields.io/badge/Java-1F2328?style=flat-square&logo=openjdk&logoColor=E5E9F0)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F2328?style=flat-square&logo=springboot&logoColor=6DB33F)
+![React](https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2328?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-1F2328?style=flat-square&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=3776AB)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&section=header"/>
+## About
 
-## 👋 About Me
+I'm a BCA graduate with a foundation in programming, software development, and analytical problem-solving. My work centers on full stack web development — Java and Spring Boot on the backend, React and JavaScript on the frontend, with SQL and MySQL for data persistence. I enjoy taking an application from a rough idea through to a working, deployed product.
 
-<table align="center">
+<br/>
+
+## Education
+
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="70%">
 
-```yaml
-name: "Yashwant Kumar"
-role: "Full Stack Developer"
-education: "BCA (Bachelor of Computer Applications)"
-location: "India 📍"
-
-focus:
-  backend:  ["Java", "Spring Boot", "REST APIs"]
-  frontend: ["HTML", "CSS", "JavaScript"]
-  database: ["MySQL"]
-  tools:    ["Git", "GitHub", "VS Code"]
-
-currently_learning: "Advanced Spring Boot & Microservices"
-goal: "Become a top-tier Software Engineer 🚀"
-looking_for: "Internships & Collaborations 🤝"
-
-fun_fact: "I debug faster with coffee ☕ in hand."
-```
+**Bachelor of Computer Applications (BCA)**
+Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai, India
 
 </td>
-<td width="40%" valign="top">
+<td width="30%">
 
-**🎓 Education**
-BCA Student — building a strong foundation in computer science and software engineering.
-
-**💻 What I Do**
-I build full-stack web applications — from responsive frontends to robust Java/Spring Boot backends.
-
-**🌱 Currently Learning**
-Advanced Spring Boot, Spring Security, and Microservices architecture.
-
-**🎯 Looking For**
-Internship opportunities and open-source collaborations where I can grow and contribute.
-
-**🔥 Fun Fact**
-I enjoy turning small ideas into fully working apps just to see if I can.
+01/07/2023 – 23/05/2026
+Final Grade: **7.45 / 10.00**
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F7FF&height=3&section=header"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**💻 Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 
-**🌐 Frontend**
+## Experience
+
+**Java FullStack Developer Intern** — Vaishnav Technologies
+*01/03/2025 – 20/03/2025 · Chennai, India*
+- Completed a Java Full Stack Development internship with project-based learning and development tasks.
+- Applied programming and web development concepts to practical projects.
+- Contributed to internship project work and strengthened understanding of Java-based application development and full stack workflows.
+
+**Web Development Intern** — Unified Mentor
+*20/03/2025 – 20/04/2025 · Chennai, India*
+- Developed responsive web applications using HTML5, CSS3, JavaScript, and React.js.
+- Implemented features, fixed bugs, and improved UI/UX and application performance.
+- Used Git and GitHub for version control and collaboration, applying responsive design principles throughout.
+
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-**⚙️ Backend & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,java" />
+## Tech Stack
 
-**🗄️ Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-**🔧 Tools & Version Control**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&section=header"/>
-
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td><strong>Languages</strong></td>
+<td>Java · Python · JavaScript · PHP</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>HTML5 · CSS3 · React.js · Bootstrap</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Spring Boot</td>
+</tr>
+<tr>
+<td><strong>Database</strong></td>
+<td>MySQL · SQL</td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td>Git · GitHub · VS Code · Postman</td>
+</tr>
+<tr>
+<td><strong>Data / Analytics</strong></td>
+<td>Data Science · Power BI</td>
+</tr>
+</table>
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing my work and skills.
+<br/>
 
-`HTML` `CSS` `JavaScript`
+## Featured Projects
 
-![Status](https://img.shields.io/badge/Status-Live-00F7FF?style=flat-square)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-7C3AED?style=flat-square)
+<table>
+<tr>
+<td width="8%"><strong>01</strong></td>
+<td width="42%">
 
-[🔗 Live Demo](https://yashwantchatti005.github.io/Portfolio/) · [📂 Source](https://github.com/yashwantchatti005)
+**Yash-Mart — E-Commerce Website**
+Full stack online store with product browsing and cart functionality.
+`Full Stack`
 
 </td>
-<td width="50%" valign="top">
+<td width="8%"><strong>02</strong></td>
+<td width="42%">
 
-### ✅ Pro To-Do List App
-Task manager with priorities, filters, and a clean UI.
-
-`HTML` `CSS` `JavaScript`
-
-![Status](https://img.shields.io/badge/Status-Completed-00F7FF?style=flat-square)
-![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-7C3AED?style=flat-square)
-
-[📂 Source](https://github.com/yashwantchatti005)
+**Inventory & Logistics Management System**
+Java-based system for tracking inventory and logistics operations.
+`Java` `Spring Boot` `React.js` `MySQL`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td><strong>03</strong></td>
+<td>
 
-### 💰 Expense Tracker
-Track income and expenses with visual charts.
-
-`HTML` `CSS` `JavaScript`
-
-![Status](https://img.shields.io/badge/Status-Completed-00F7FF?style=flat-square)
-![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-7C3AED?style=flat-square)
-
-[📂 Source](https://github.com/yashwantchatti005)
+**College Lost and Found Management System**
+Web application for reporting and tracking lost and found items on campus.
+`Web Application`
 
 </td>
-<td width="50%" valign="top">
+<td><strong>04</strong></td>
+<td>
 
-### 💬 Chat Application
-Real-time messaging interface with a modern layout.
-
+**Expense Tracker**
+Web app for logging and tracking personal income and expenses.
 `HTML` `CSS` `JavaScript`
-
-![Status](https://img.shields.io/badge/Status-Completed-00F7FF?style=flat-square)
-![Difficulty](https://img.shields.io/badge/Difficulty-Intermediate-7C3AED?style=flat-square)
-
-[📂 Source](https://github.com/yashwantchatti005)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td><strong>05</strong></td>
+<td>
 
-### 🛒 E-Commerce Website
-Full shopping experience with a working cart flow.
-
+**Personal Portfolio**
+Personal site showcasing projects, skills, and background.
 `HTML` `CSS` `JavaScript`
 
-![Status](https://img.shields.io/badge/Status-Completed-00F7FF?style=flat-square)
-![Difficulty](https://img.shields.io/badge/Difficulty-Advanced-7C3AED?style=flat-square)
-
-[📂 Source](https://github.com/yashwantchatti005)
-
 </td>
-<td width="50%" valign="top">
+<td><strong>06</strong></td>
+<td>
 
-### 🔗 Spring Boot REST APIs
-Backend APIs built with Java & Spring Boot — in progress.
-
-`Java` `Spring Boot` `MySQL`
-
-![Status](https://img.shields.io/badge/Status-In_Progress-FFA500?style=flat-square)
-![Difficulty](https://img.shields.io/badge/Difficulty-Advanced-7C3AED?style=flat-square)
-
-[📂 Source](https://github.com/yashwantchatti005)
+**Chat Application**
+Real-time messaging interface built for the frontend.
+`Frontend / Web Development`
 
 </td>
 </tr>
 </table>
 
-> 💡 *More projects coming with Spring Boot REST APIs soon!*
+**Live / Source:**
+[Yash-Mart](https://yashwantchatti005.github.io/Yash-mart/) · [Inventory & Logistics](https://github.com/yashwantchatti005/Inventory-Logistics-Java) · [College Lost & Found](https://college-lost-and-found-production.up.railway.app/) · [Expense Tracker](https://yashwantchatti005.github.io/MyExpense/) · [Portfolio](https://yashwantchatti005.github.io/Portfolio/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F7FF&height=3&section=header"/>
+<br/>
 
-## 🏆 Achievements & Growth
+## Certifications
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+- Honours Diploma in Full Stack Developer (HDFD)
+- Web Development Internship — Unified Mentor
+- Web Development using HTML
+- Java Fundamentals
+- SQL and Relational Databases 101
+- Full Stack Web Development with Java
 
-**🎓 Education**
-- BCA (Bachelor of Computer Applications) — in progress
+<br/>
 
-**📜 Learning Journey**
-- Mastered HTML, CSS & JavaScript fundamentals
-- Built strong Java & OOP foundations
-- Currently deep-diving into Spring Boot & REST APIs
+## Current Focus
 
-</td>
-<td width="50%" valign="top">
+| Comfortable With | Currently Exploring |
+|---|---|
+| Java, Spring Boot basics, React, JavaScript, MySQL | Advanced Spring Boot, REST APIs, backend architecture, data/AI-related technologies |
 
-**🚀 Current Focus**
-- Advanced Spring Boot & Microservices
-- Writing clean, production-style REST APIs
+<br/>
 
-**📈 Growth Goals**
-- Contribute to open source
-- Land a Full Stack / Backend internship
+## Languages
 
-</td>
-</tr>
-</table>
+Telugu — Mother Tongue &nbsp;·&nbsp; English — C1 &nbsp;·&nbsp; Tamil — C1 &nbsp;·&nbsp; Hindi — B2 &nbsp;·&nbsp; German — A2
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&section=header"/>
+<br/>
 
-## 📊 GitHub Analytics
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=default&hide_border=true" width="40%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantchatti005&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwantchatti005&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
+## Connect
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashwantchatti005&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+[Portfolio](https://yashwantchatti005.github.io/Portfolio/) &nbsp;·&nbsp; [GitHub](https://github.com/yashwantchatti005) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yashwantchatti2005) &nbsp;·&nbsp; [yaswanthchatti@gmail.com](mailto:yaswanthchatti@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F7FF&height=3&section=header"/>
+<br/>
 
-## 🐍 Contribution Snake
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&section=header"/>
-
-## 🌱 Open Source & Roadmap
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**🌍 Open Source Goals**
-- Contribute to beginner-friendly Java/Spring Boot repos
-- Participate in Hacktoberfest
-- Explore AI-assisted developer tooling
-
-</td>
-<td width="50%" valign="top">
-
-**🗺️ Roadmap**
-
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [x] Java
-- [x] Spring Boot
-- [ ] React
-- [ ] Spring Security
-- [ ] JWT
-- [ ] Docker
-- [ ] Kubernetes
-- [ ] AWS
-- [ ] Microservices
-- [ ] CI/CD
-- [ ] System Design
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`████████████░░░░░░░░░░░░` **~50% towards Full Stack + Cloud proficiency**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F7FF&height=3&section=header"/>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://yashwantchatti005.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF"/>
-  </a>
-  <a href="https://github.com/yashwantchatti005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yashwantchatti2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yaswanthchatti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7C3AED&height=3&section=header"/>
-
-<div align="center">
-
-### 💬 *"Code is like humor. When you have to explain it, it's bad."*
-
-**✨ Building projects, learning daily, and growing as a developer. ✨**
-
-⭐ From **Yashwant Kumar**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00F7FF,100:0D1117&height=150&section=footer&animation=fadeIn" />
-
-</div>
+<sub><strong>DE</strong> — Yashwant Kumar ist Full-Stack-Entwickler mit Schwerpunkt auf Java, Spring Boot, React.js und JavaScript. Er hat einen Bachelor of Computer Applications (BCA) abgeschlossen und sammelte praktische Erfahrung in zwei Praktika bei Vaishnav Technologies und Unified Mentor. Portfolio, Projekte und Kontaktdaten sind oben verlinkt.</sub>
