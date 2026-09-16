@@ -31,22 +31,9 @@ I'm a BCA graduate with a foundation in programming, software development, and a
 
 ## Education
 
-<table>
-<tr>
-<td width="70%">
-
 **Bachelor of Computer Applications (BCA)**
 Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai, India
-
-</td>
-<td width="30%">
-
 01/07/2023 – 23/05/2026
-Final Grade: **7.45 / 10.00**
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -177,12 +164,6 @@ Real-time messaging interface built for the frontend.
 | Comfortable With | Currently Exploring |
 |---|---|
 | Java, Spring Boot basics, React, JavaScript, MySQL | Advanced Spring Boot, REST APIs, backend architecture, data/AI-related technologies |
-
-<br/>
-
-## Languages
-
-Telugu — Mother Tongue &nbsp;·&nbsp; English — C1 &nbsp;·&nbsp; Tamil — C1 &nbsp;·&nbsp; Hindi — B2 &nbsp;·&nbsp; German — A2
 
 <br/>
 
