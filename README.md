@@ -8,6 +8,8 @@ Java · Spring Boot · React.js · JavaScript
 
 Building practical web applications with modern frontend technologies and Java-based backend systems.
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B95A5&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+%2B+React;Currently+building+with+REST+APIs" alt="typing animation" />
+
 [Portfolio](https://yashwantchatti005.github.io/Portfolio/) &nbsp;·&nbsp; [GitHub](https://github.com/yashwantchatti005) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yashwantchatti2005) &nbsp;·&nbsp; [Email](mailto:yaswanthchatti@gmail.com)
 
 <br/>
@@ -172,6 +174,14 @@ Real-time messaging interface built for the frontend.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=default&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantchatti005&theme=default&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashwantchatti005/yashwantchatti005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 </p>
 
 <br/>
