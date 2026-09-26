@@ -1,6 +1,6 @@
 <div align="center">
 
-# YASHWANT KUMAR
+# YASWANTH KUMAR
 
 **Full Stack Developer**
 
