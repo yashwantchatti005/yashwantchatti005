@@ -2,134 +2,122 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Practical+Web+Applications;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Web+Applications" alt="Full Stack Developer" />
 
   <p>
-    <strong>Full Stack Developer · Java · Spring Boot · React.js</strong>
+    <strong>Full Stack Developer | Java | Spring Boot | React.js</strong>
   </p>
 
   <p>
-    Developing responsive web applications with clean interfaces,
-    maintainable code, and practical software solutions.
+    Designing and developing responsive web applications through
+    modern frontend technologies, Java-based backend systems,
+    and structured database solutions.
   </p>
 
   <p>
     <a href="https://yashwantchatti005.github.io/Portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://github.com/yashwantchatti005">
-      <img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://www.linkedin.com/in/yashwantchatti2005/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
-
 </div>
 
 ---
 
-## About Me
+## Professional Summary
 
-I'm a **BCA graduate and Full Stack Developer** interested in building practical, user-focused web applications.
+BCA graduate with a foundation in software development, programming, and analytical problem-solving. Experienced in developing web applications using Java, Spring Boot, React.js, JavaScript, and MySQL through academic projects, personal development, and internship experience.
 
-My development work combines Java-based backend development with modern frontend technologies. I enjoy transforming ideas into functional applications, improving user experiences, and learning how to design more reliable and maintainable software.
+Interested in building reliable software solutions, developing maintainable applications, and continuously strengthening technical expertise across frontend and backend development.
 
-- **Education:** Bachelor of Computer Applications (BCA)
-- **Backend:** Java, Spring Boot, REST API development
-- **Frontend:** React.js, JavaScript, HTML5, CSS3
-- **Database:** MySQL, SQL
-- **Interests:** Full Stack Development, Software Engineering, AI and emerging technologies
-- **Portfolio:** [Explore my projects](https://yashwantchatti005.github.io/Portfolio/)
+## Technical Expertise
 
-## Technical Skills
+| Category | Technologies |
+|---|---|
+| Programming Languages | Java, JavaScript, Python, PHP |
+| Frontend Development | HTML5, CSS3, React.js, Bootstrap |
+| Backend Development | Java, Spring Boot |
+| Databases | MySQL, SQL |
+| Development Tools | Git, GitHub, Visual Studio Code, Postman |
+| Areas of Interest | Software Engineering, Web Application Development, Artificial Intelligence |
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,php" alt="Java, Python, JavaScript, PHP" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="HTML, CSS, React, Bootstrap" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot and MySQL" />
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,python,git,github" alt="Technical skills" />
 
 </div>
 
-## Featured Projects
+## Selected Projects
 
-### 01 · Yash-Mart — E-Commerce Website
-
-A web-based shopping experience featuring product browsing and cart functionality.
-
-**Technologies:** HTML, CSS, JavaScript
-
-[Live Demo →](https://yashwantchatti005.github.io/Yash-mart/)
-
-### 02 · Inventory & Logistics Management System
-
-A Java-based application designed to manage inventory information and support logistics workflows.
+### 01. Inventory & Logistics Management System
 
 **Technologies:** Java, Spring Boot, React.js, MySQL
 
-[Source Code →](https://github.com/yashwantchatti005/Inventory-Logistics-Java)
+Developed a full stack application focused on inventory management and logistics workflows, combining a Java-based backend, a React frontend, and relational database storage.
 
-### 03 · College Lost and Found Management System
+[View Source Code →](https://github.com/yashwantchatti005/Inventory-Logistics-Java)
 
-A web application that helps users report and track lost and found items within a college environment.
-
-[Live Demo →](https://college-lost-and-found-production.up.railway.app/)
-
-### 04 · Expense Tracker
-
-A lightweight web application for recording and tracking personal income and expenses.
+### 02. Yash-Mart — E-Commerce Website
 
 **Technologies:** HTML, CSS, JavaScript
 
-[Live Demo →](https://yashwantchatti005.github.io/MyExpense/)
+Developed a web-based shopping application featuring product browsing and cart functionality, with an emphasis on responsive design and user experience.
 
-### 05 · Personal Portfolio
+[View Live Application →](https://yashwantchatti005.github.io/Yash-mart/)
 
-A personal website showcasing my technical skills, development projects, and professional background.
+### 03. College Lost and Found Management System
+
+Developed a web application intended to facilitate the reporting and tracking of lost and found items within a college environment.
+
+[View Live Application →](https://college-lost-and-found-production.up.railway.app/)
+
+### 04. Expense Tracker
 
 **Technologies:** HTML, CSS, JavaScript
 
-[Live Demo →](https://yashwantchatti005.github.io/Portfolio/)
+Built a lightweight application for recording and monitoring personal income and expenses through a straightforward user interface.
 
-### 06 · Chat Application
+[View Live Application →](https://yashwantchatti005.github.io/MyExpense/)
 
-A messaging interface developed as a web development project.
+### 05. Personal Portfolio Website
 
-**Technologies:** Verify the final implementation before listing the complete stack.
+**Technologies:** HTML, CSS, JavaScript
 
----
+Designed and developed a personal portfolio to present technical skills, selected projects, and professional information.
+
+[View Portfolio →](https://yashwantchatti005.github.io/Portfolio/)
+
+### 06. Chat Application
+
+Developed a messaging interface as part of web application development practice.
+
+*Add the repository link and confirmed technology stack when available.*
 
 ## Professional Experience
 
-**Java Full Stack Developer Intern — Vaishnav Technologies**
+### Java Full Stack Developer Intern
+**Vaishnav Technologies** | Chennai, India
 
-*March 2025 – March 2025 · Chennai, India*
+*March 2025*
 
-- Completed an internship focused on Java Full Stack Development.
-- Applied programming and web development concepts through practical project work.
-- Strengthened understanding of Java-based application development and full stack workflows.
+- Participated in practical learning activities focused on Java full stack development.
+- Applied programming and web development concepts to project-based tasks.
+- Developed an understanding of Java application development and full stack workflows.
 
-**Web Development Intern — Unified Mentor**
+### Web Development Intern
+**Unified Mentor** | Chennai, India
 
-*March 2025 – April 2025 · Chennai, India*
+*March – April 2025*
 
 - Developed responsive web interfaces using HTML5, CSS3, JavaScript, and React.js.
-- Worked on application features, bug fixes, and user interface improvements.
-- Used Git and GitHub to manage project code and version history.
+- Worked on application features, debugging, and user interface improvements.
+- Used Git and GitHub for source code management and version control.
 
 ## Education
 
@@ -140,7 +128,7 @@ Chennai, Tamil Nadu, India
 
 *July 2023 – May 2026*
 
-## Certifications
+## Certifications & Professional Development
 
 - Honours Diploma in Full Stack Development (HDFD)
 - Full Stack Web Development with Java
@@ -149,20 +137,20 @@ Chennai, Tamil Nadu, India
 - Java Fundamentals
 - SQL and Relational Databases 101
 
-## Currently Exploring
+## Current Learning Focus
 
-- Advanced Spring Boot and REST API design
+- Advanced Spring Boot and REST API development
 - Backend architecture and application security
-- Database design and optimization
-- Data science, artificial intelligence, and machine learning
+- Relational database design and optimization
+- Artificial intelligence, machine learning, and data science fundamentals
 
-## GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
 
 </div>
 
@@ -172,9 +160,9 @@ Chennai, Tamil Nadu, India
 
 </div>
 
-## Let's Connect
+## Contact
 
-I'm interested in connecting with developers, collaborating on projects, and exploring opportunities in software development.
+For professional networking, software development collaborations, and project enquiries:
 
 <div align="center">
 
@@ -188,5 +176,5 @@ I'm interested in connecting with developers, collaborating on projects, and exp
 ---
 
 <div align="center">
-  <sub>Building, learning, and improving — one project at a time.</sub>
+  <sub>Yaswanth Chatti | Full Stack Developer</sub>
 </div>
