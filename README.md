@@ -1,4 +1,4 @@
-# Yashwant Kumar | Full Stack Developer
+# Yaswanth Chatti | Full Stack Developer
 
 <div align="center">
 
