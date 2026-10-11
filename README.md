@@ -1,197 +1,193 @@
+# Yashwant Kumar | Full Stack Developer
+
 <div align="center">
 
-# YASWANTH KUMAR
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React.js;Building+Practical+Web+Applications;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
 
-**Full Stack Developer**
+  <p>
+    <strong>Full Stack Developer · Java · Spring Boot · React.js</strong>
+  </p>
 
-Java · Spring Boot · React.js · JavaScript
+  <p>
+    Developing responsive web applications with clean interfaces,
+    maintainable code, and practical software solutions.
+  </p>
 
-Building practical web applications with modern frontend technologies and Java-based backend systems.
+  <p>
+    <a href="https://yashwantchatti005.github.io/Portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/yashwantchatti005">
+      <img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/yashwantchatti2005/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B95A5&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Java+%2B+Spring+Boot+%2B+React;Currently+building+with+REST+APIs" alt="typing animation" />
-
-[Portfolio](https://yashwantchatti005.github.io/Portfolio/) &nbsp;·&nbsp; [GitHub](https://github.com/yashwantchatti005) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yashwantchatti2005) &nbsp;·&nbsp; [Email](mailto:yaswanthchatti@gmail.com)
-
-<br/>
-
-![Java](https://img.shields.io/badge/Java-1F2328?style=flat-square&logo=openjdk&logoColor=E5E9F0)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1F2328?style=flat-square&logo=springboot&logoColor=6DB33F)
-![React](https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2328?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-1F2328?style=flat-square&logo=mysql&logoColor=4479A1)
-![Python](https://img.shields.io/badge/Python-1F2328?style=flat-square&logo=python&logoColor=3776AB)
+  <img src="https://komarev.com/ghpvc/?username=yashwantchatti005&style=flat-square&color=64748b&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<br/>
+---
 
-## About
+## About Me
 
-I'm a BCA graduate with a foundation in programming, software development, and analytical problem-solving. My work centers on full stack web development — Java and Spring Boot on the backend, React and JavaScript on the frontend, with SQL and MySQL for data persistence. I enjoy taking an application from a rough idea through to a working, deployed product.
+I'm a **BCA graduate and Full Stack Developer** interested in building practical, user-focused web applications.
 
-<br/>
+My development work combines Java-based backend development with modern frontend technologies. I enjoy transforming ideas into functional applications, improving user experiences, and learning how to design more reliable and maintainable software.
+
+- **Education:** Bachelor of Computer Applications (BCA)
+- **Backend:** Java, Spring Boot, REST API development
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **Database:** MySQL, SQL
+- **Interests:** Full Stack Development, Software Engineering, AI and emerging technologies
+- **Portfolio:** [Explore my projects](https://yashwantchatti005.github.io/Portfolio/)
+
+## Technical Skills
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,php" alt="Java, Python, JavaScript, PHP" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="HTML, CSS, React, Bootstrap" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot and MySQL" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman" />
+
+</div>
+
+## Featured Projects
+
+### 01 · Yash-Mart — E-Commerce Website
+
+A web-based shopping experience featuring product browsing and cart functionality.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Demo →](https://yashwantchatti005.github.io/Yash-mart/)
+
+### 02 · Inventory & Logistics Management System
+
+A Java-based application designed to manage inventory information and support logistics workflows.
+
+**Technologies:** Java, Spring Boot, React.js, MySQL
+
+[Source Code →](https://github.com/yashwantchatti005/Inventory-Logistics-Java)
+
+### 03 · College Lost and Found Management System
+
+A web application that helps users report and track lost and found items within a college environment.
+
+[Live Demo →](https://college-lost-and-found-production.up.railway.app/)
+
+### 04 · Expense Tracker
+
+A lightweight web application for recording and tracking personal income and expenses.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Demo →](https://yashwantchatti005.github.io/MyExpense/)
+
+### 05 · Personal Portfolio
+
+A personal website showcasing my technical skills, development projects, and professional background.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[Live Demo →](https://yashwantchatti005.github.io/Portfolio/)
+
+### 06 · Chat Application
+
+A messaging interface developed as a web development project.
+
+**Technologies:** Verify the final implementation before listing the complete stack.
+
+---
+
+## Professional Experience
+
+**Java Full Stack Developer Intern — Vaishnav Technologies**
+
+*March 2025 – March 2025 · Chennai, India*
+
+- Completed an internship focused on Java Full Stack Development.
+- Applied programming and web development concepts through practical project work.
+- Strengthened understanding of Java-based application development and full stack workflows.
+
+**Web Development Intern — Unified Mentor**
+
+*March 2025 – April 2025 · Chennai, India*
+
+- Developed responsive web interfaces using HTML5, CSS3, JavaScript, and React.js.
+- Worked on application features, bug fixes, and user interface improvements.
+- Used Git and GitHub to manage project code and version history.
 
 ## Education
 
 **Bachelor of Computer Applications (BCA)**
-Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai, India
-01/07/2023 – 23/05/2026
 
-<br/>
+Dwaraka Doss Goverdhan Doss Vaishnav College  
+Chennai, Tamil Nadu, India
 
-## Experience
-
-**Java FullStack Developer Intern** — Vaishnav Technologies
-*01/03/2025 – 20/03/2025 · Chennai, India*
-- Completed a Java Full Stack Development internship with project-based learning and development tasks.
-- Applied programming and web development concepts to practical projects.
-- Contributed to internship project work and strengthened understanding of Java-based application development and full stack workflows.
-
-**Web Development Intern** — Unified Mentor
-*20/03/2025 – 20/04/2025 · Chennai, India*
-- Developed responsive web applications using HTML5, CSS3, JavaScript, and React.js.
-- Implemented features, fixed bugs, and improved UI/UX and application performance.
-- Used Git and GitHub for version control and collaboration, applying responsive design principles throughout.
-
-<br/>
-
-## Tech Stack
-
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>Java · Python · JavaScript · PHP</td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>HTML5 · CSS3 · React.js · Bootstrap</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>Spring Boot</td>
-</tr>
-<tr>
-<td><strong>Database</strong></td>
-<td>MySQL · SQL</td>
-</tr>
-<tr>
-<td><strong>Tools</strong></td>
-<td>Git · GitHub · VS Code · Postman</td>
-</tr>
-<tr>
-<td><strong>Data / Analytics</strong></td>
-<td>Data Science · Power BI</td>
-</tr>
-</table>
-
-<br/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="8%"><strong>01</strong></td>
-<td width="42%">
-
-**Yash-Mart — E-Commerce Website**
-Full stack online store with product browsing and cart functionality.
-`Full Stack`
-
-</td>
-<td width="8%"><strong>02</strong></td>
-<td width="42%">
-
-**Inventory & Logistics Management System**
-Java-based system for tracking inventory and logistics operations.
-`Java` `Spring Boot` `React.js` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td><strong>03</strong></td>
-<td>
-
-**College Lost and Found Management System**
-Web application for reporting and tracking lost and found items on campus.
-`Web Application`
-
-</td>
-<td><strong>04</strong></td>
-<td>
-
-**Expense Tracker**
-Web app for logging and tracking personal income and expenses.
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td><strong>05</strong></td>
-<td>
-
-**Personal Portfolio**
-Personal site showcasing projects, skills, and background.
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td><strong>06</strong></td>
-<td>
-
-**Chat Application**
-Real-time messaging interface built for the frontend.
-`Frontend / Web Development`
-
-</td>
-</tr>
-</table>
-
-**Live / Source:**
-[Yash-Mart](https://yashwantchatti005.github.io/Yash-mart/) · [Inventory & Logistics](https://github.com/yashwantchatti005/Inventory-Logistics-Java) · [College Lost & Found](https://college-lost-and-found-production.up.railway.app/) · [Expense Tracker](https://yashwantchatti005.github.io/MyExpense/) · [Portfolio](https://yashwantchatti005.github.io/Portfolio/)
-
-<br/>
+*July 2023 – May 2026*
 
 ## Certifications
 
-- Honours Diploma in Full Stack Developer (HDFD)
+- Honours Diploma in Full Stack Development (HDFD)
+- Full Stack Web Development with Java
 - Web Development Internship — Unified Mentor
-- Web Development using HTML
+- Web Development Using HTML
 - Java Fundamentals
 - SQL and Relational Databases 101
-- Full Stack Web Development with Java
 
-<br/>
+## Currently Exploring
 
-## Current Focus
+- Advanced Spring Boot and REST API design
+- Backend architecture and application security
+- Database design and optimization
+- Data science, artificial intelligence, and machine learning
 
-| Comfortable With | Currently Exploring |
-|---|---|
-| Java, Spring Boot basics, React, JavaScript, MySQL | Advanced Spring Boot, REST APIs, backend architecture, data/AI-related technologies |
+## GitHub Analytics
 
-<br/>
+<div align="center">
 
-## GitHub
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwantchatti005&show_icons=true&theme=default&hide_border=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwantchatti005&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantchatti005&theme=default&hide_border=true" width="60%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashwantchatti005/yashwantchatti005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
-</p>
+<div align="center">
 
-<br/>
+  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwantchatti005&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
-## Connect
+</div>
 
-[Portfolio](https://yashwantchatti005.github.io/Portfolio/) &nbsp;·&nbsp; [GitHub](https://github.com/yashwantchatti005) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yashwantchatti2005) &nbsp;·&nbsp; [yaswanthchatti@gmail.com](mailto:yaswanthchatti@gmail.com)
+## Let's Connect
 
-<br/>
+I'm interested in connecting with developers, collaborating on projects, and exploring opportunities in software development.
+
+<div align="center">
+
+  <a href="https://yashwantchatti005.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://github.com/yashwantchatti005">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/yashwantchatti2005/">LinkedIn</a> ·
+  <a href="mailto:yaswanthchatti@gmail.com">Email</a>
+
+</div>
 
 ---
 
-<sub><strong>DE</strong> — Yashwant Kumar ist Full-Stack-Entwickler mit Schwerpunkt auf Java, Spring Boot, React.js und JavaScript. Er hat einen Bachelor of Computer Applications (BCA) abgeschlossen und sammelte praktische Erfahrung in zwei Praktika bei Vaishnav Technologies und Unified Mentor. Portfolio, Projekte und Kontaktdaten sind oben verlinkt.</sub>
+<div align="center">
+  <sub>Building, learning, and improving — one project at a time.</sub>
+</div>
