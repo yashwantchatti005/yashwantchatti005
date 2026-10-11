@@ -25,7 +25,6 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=yashwantchatti005&style=flat-square&color=64748b&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
